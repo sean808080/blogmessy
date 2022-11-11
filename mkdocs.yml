@@ -1,6 +1,6 @@
 site_name: sean808080's blog
 site_description: open kimono
-site_url: https://github.com/sean808080/blog
+site_url: https://sean808080.io/blog
 
 theme:
     name: 'material'
